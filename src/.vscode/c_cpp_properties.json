@@ -1,0 +1,29 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/oliver/robot_control_ws/devel/include/**",
+                "/home/oliver/realsense_ws/devel/include/**",
+                "/home/oliver/rospylon/devel/include/**",
+                "/opt/ros/melodic/include/**",
+                "/home/oliver/robot_control_ws/src/UR_control/include/**",
+                "/home/oliver/realsense_ws/src/ddynamic_reconfigure/include/**",
+                "/home/oliver/rospylon/src/pylon-ros-camera/pylon_camera/include/**",
+                "/home/oliver/realsense_ws/src/realsense-ros/realsense2_camera/include/**",
+                "/home/oliver/robot_control_ws/src/robot_control/include/**",
+                "/home/oliver/realsense_ws/src/ros_openpose/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

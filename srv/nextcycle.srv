@@ -1,0 +1,9 @@
+Header header
+int32 proposed_index
+---
+Header header
+string cycle_info
+int32 cycle_nr
+float64 pose_x
+float64 pose_y
+float64 pose_z
